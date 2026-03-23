@@ -80,11 +80,13 @@ Billing Amount : 20
 
 ## Future Enhancements
 
-* ✅ Input validation (email, phone number)
-* 🖥️ GUI using Tkinter / Web app using Flask
-* 🗄️ Database integration (SQLite/MySQL)
-* 📊 Sales analytics dashboard
-* 🔐 Authentication system for admin/users
+✅ Input Validation: Ensure user details are valid, including email format 📧, phone number 📱, and positive quantity values 🔢
+⚠️ Error Handling: Improve data reliability by handling invalid or missing inputs 🛠️
+🏪 Admin/Store-Owner Module: Manage inventory efficiently, including:
+    ➕ Adding new products
+    ❌ Deleting existing products
+    🔄 Updating stock and pricing
+💻 Optional Enhancements: Build a GUI/web interface for better usability 🌐
 
 ---
 
