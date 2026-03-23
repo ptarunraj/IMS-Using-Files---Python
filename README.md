@@ -68,11 +68,11 @@ main.py         # Main program
 ```
 -------------------- TR STORES --------------------
 Date/Time      : Mon Mar 23 12:00:00 2026
-Product Name   : Pen
-Price          : 10
+Product Name   : Cake
+Price          : 300
 Quantity       : 2
 --------------------------------------------------
-Billing Amount : 20
+Billing Amount : 600
 --------------------------------------------------
 ```
 
