@@ -78,15 +78,15 @@ Billing Amount : 600
 
 ---
 
-## Future Enhancements
+## 🔮 Future Scope
 
-✅ Input Validation: Ensure user details are valid, including email format 📧, phone number 📱, and positive quantity values 🔢
-⚠️ Error Handling: Improve data reliability by handling invalid or missing inputs 🛠️
-🏪 Admin/Store-Owner Module: Manage inventory efficiently, including:
-    ➕ Adding new products
-    ❌ Deleting existing products
-    🔄 Updating stock and pricing
-💻 Optional Enhancements: Build a GUI/web interface for better usability 🌐
+- ✅ **Input Validation:** Ensure user details are valid, including email format 📧, phone number 📱, and positive quantity values 🔢
+- ⚠️ **Error Handling:** Improve data reliability by handling invalid or missing inputs 🛠️
+- 🏪 **Admin/Store-Owner Module:** Manage inventory efficiently, including:
+  - ➕ Adding new products
+  - ❌ Deleting existing products
+  - 🔄 Updating stock and pricing
+- 💻 **Optional Enhancements:** Build a GUI/web interface for better usability 🌐
 
 ---
 
